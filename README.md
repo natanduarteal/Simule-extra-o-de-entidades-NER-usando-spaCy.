@@ -1,0 +1,1 @@
+# Simule-extra-o-de-entidades-NER-usando-spaCy.
